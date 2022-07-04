@@ -19,8 +19,8 @@ jupyter-notebook
 Wobei der letzte Befehl "juypter-notebook" die jupyter Anwendung in dem neu geschaffenen workshop environment startet.
 
 ## Inhalt dieses Repository
-- `workshop.ipynb` workshop jupyter-notebook
-- `workshop.py` der workshop.ipynb als .py scipts (optional falls jupyter nicht vorhanden)
+- `workshop.ipynb` workshop code in einem jupyter-notebook
+- `workshop.py` workshop code als .py scipts (optional, falls jupyter nicht vorhanden)
 - `workshop.ppt` workshop slides
 - `Aschach_data.csv` Daten der Aschach für die Jahre 2007-20015
 - `Abb/` Abbildungen
